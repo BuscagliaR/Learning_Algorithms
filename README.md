@@ -35,5 +35,8 @@ SLE Plasma Thermogram averaged scans.  Data was provided by Dr. Nichola Garbett.
 
 ## Per_Pixel_SLE_Full_Analysis_Final.R
 
-Provides the code for obtaining all results shown in Chapter 7, section 3.  Not annotated.  Uses parallelization heavily (6 cores).  Several computationally intensive steps.  Takes approximately 6 - 8 hours to run.
+Provides the code for obtaining all results shown in Chapter 7: Section 3.  Not annotated.  Uses parallelization heavily (6 cores).  Several computationally intensive steps.  Takes approximately 6 - 8 hours to run.  Requires all three root .R files above for ensemble functions and learning algorithms.
 
+## PCA_based_Classifiers_QDA_Analysis.R
+
+Provides the code for obtaining the PCA-based classifier results using QDA classifiers.  All results including ensemble results are obtained.  Runs quickly.  Parallelization is present.
