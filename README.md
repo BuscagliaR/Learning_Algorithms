@@ -12,3 +12,9 @@ The author hopes to maintain this repository and will provide more code for prod
 
 Annotations are often also missing.  Updates to annotations are also of future interest, so that fundamental code can be sharedat the author's new position.
 
+# Supervised_Learning_Algorithms.R
+
+This file contains all supervised learning algorithms.  Algorithms are all created to perform k-fold cross validation.  Some parallelization is present within the functions.  Classifiers include : MLE logistic regression (LR), LASSO, ENET, RIDGE, LDA, QDA, and KNN.  Adaptive varients of ENET and LASSO were coded seperately.
+
+Provided within this set of code is also naive, equally-weighted, and accuracy-weighted ensemble algorithms.
+
