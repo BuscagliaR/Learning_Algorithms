@@ -25,3 +25,15 @@ Provided within this set of code are basic naive, equally-weighted, and accuracy
 
 Contains R code for ensemble learning.  Naive, equally-weighted, and accuracy-weighted ensemble algorithms are presented, but now with detailed code for running and producing KCV ensemble classifier results found in Chapter 5.
 
+## ESFuNC_Functions_March_2018.R
+
+ESFuNC functions (see additional repository).  Not required but called in the code provided to obtain results.
+
+## lupustherm.txt
+
+SLE Plasma Thermogram averaged scans.  Data was provided by Dr. Nichola Garbett.  The file contains the SLE plasma thermogram output after some data processing: averaging of duplicated results and removal of erroneous scans.
+
+## Per_Pixel_SLE_Full_Analysis_Final.R
+
+Provides the code for obtaining all results shown in Chapter 7, section 3.  Not annotated.  Uses parallelization heavily (6 cores).  Several computationally intensive steps.  Takes approximately 6 - 8 hours to run.
+
