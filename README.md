@@ -1,10 +1,10 @@
-# Supervised_Learning
+# Learning Algorithms
 
 Dr. Robert Buscaglia (rbuscagl@asu.edu)
 
 April 2018
  
-This repository contains supervised learning algorithms used in the dissertation "Supervised and Ensemble Learning of Multivariate Functional Data: Applications to Lupus Diagnosis", defended on May 10th, 2018, Arizona State University.
+This repository contains supervised learning and ensemble algorithms used in the dissertation "Supervised and Ensemble Learning of Multivariate Functional Data: Applications to Lupus Diagnosis", defended on May 10th, 2018, Arizona State University.
 
 Provided are the functions used to produce all supervised learning results presented within the dissertation.  This relates to Chapters 4, 5, and 7, with code given for how KCV for contemporary and functional classifiers were produced.  Limited specific code is given for obtaining values found within tables or figures.  Requests can be made to the author if specific code of interest is required.
 
